@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50102834797",
+    "project_id": "mariagepie",
+    "storage_bucket": "mariagepie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50102834797:android:bd8286c06367fa4ab45164",
+        "android_client_info": {
+          "package_name": "com.example.mariagepie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvy3TJw9uI3AsknCbmpHJ9J9YbosdzWts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
